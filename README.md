@@ -28,6 +28,7 @@ The MNIST dataset is a collection of 28x28 grayscale images of handwritten digit
 - numpy
 - matplotlib
 - scikit-learn
+- keras
 
 ## Acknowledgements
 - The MNIST dataset used in this project is widely available and is often used in educational and research settings.
